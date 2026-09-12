@@ -21,6 +21,7 @@
 | 2026-09-09 | [查看](reports/2026-09-09.md) | OpenAI AI模型88小时攻克千禧年难题 · Meta发布首款个人智能体Muse · 高通亚马逊600亿美元AI芯片合作 · ASML获三大芯片厂High NA EUV承诺 · Google核电站重启供AI用电 |
 | 2026-09-10 | [查看](reports/2026-09-10.md) | DeepSeek V4.1 Flash全面超越V4 Pro成本低77% · OpenAI×三星下一代AI芯片联合制造 · Google发布Gemini Cyber网安专用模型 · 加州签署全美首个AI审计法案 · Anthropic研究员辞职警告AI灭绝风险 · 智元AGILE 2.0感控一体模型 |
 | 2026-09-11 | [查看](reports/2026-09-11.md) | 中国AI芯片因HBM短缺集体涨价 · SpaceX签133亿美元年化AI算力大单 · OpenAI限制竞品广告并呼吁强制监管 · Anthropic拒绝向英国提供模型测试 · 欧盟CRA漏洞报告义务生效 |
+| 2026-09-12 | [查看](reports/2026-09-12.md) | OpenAI推出Agents API与GPT-Live-1语音模型 · Astra需求致首次暂停Pro订阅 · 英伟达拟100亿美元参与Anthropic IPO · DeepMind发布全基因组变异图谱 · Visa/万事达/蚂蚁国际联合推出AI Agent认证框架 |
 
 ## 📅 周报索引
 
