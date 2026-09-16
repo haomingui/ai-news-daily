@@ -23,6 +23,7 @@
 | 2026-09-10 | [查看](reports/2026-09-10.md) | DeepSeek V4.1 Flash全面超越V4 Pro成本低77% · OpenAI×三星下一代AI芯片联合制造 · Google发布Gemini Cyber网安专用模型 · 加州签署全美首个AI审计法案 · Anthropic研究员辞职警告AI灭绝风险 · 智元AGILE 2.0感控一体模型 |
 | 2026-09-11 | [查看](reports/2026-09-11.md) | 中国AI芯片因HBM短缺集体涨价 · SpaceX签133亿美元年化AI算力大单 · OpenAI限制竞品广告并呼吁强制监管 · Anthropic拒绝向英国提供模型测试 · 欧盟CRA漏洞报告义务生效 |
 | 2026-09-12 | [查看](reports/2026-09-12.md) | OpenAI推出Agents API与GPT-Live-1语音模型 · Astra需求致首次暂停Pro订阅 · 英伟达拟100亿美元参与Anthropic IPO · DeepMind发布全基因组变异图谱 · Visa/万事达/蚂蚁国际联合推出AI Agent认证框架 |
+| 2026-09-16 | [查看](reports/2026-09-16.md) | OpenAI洽谈1.2万亿融资；Anthropic Claude/Salesforce in Claude与Google Gemini 3.8 Live同步更新；美光首发512GB DDR5 RDIMM；NVIDIA DSX MaxLPS量产验证+24%吞吐；马斯克All-In峰会提出AI同行评审。 |
 
 ## 📅 周报索引
 
