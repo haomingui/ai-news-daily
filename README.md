@@ -26,6 +26,7 @@
 | 2026-09-16 | [查看](reports/2026-09-16.md) | OpenAI洽谈1.2万亿融资；Anthropic Claude/Salesforce in Claude与Google Gemini 3.8 Live同步更新；美光首发512GB DDR5 RDIMM；NVIDIA DSX MaxLPS量产验证+24%吞吐；马斯克All-In峰会提出AI同行评审。 |
 
 | 2026-09-17 | [查看](reports/2026-09-17.md) | 三大厂商AI安全协调首次公开确认，Anthropic把Cowork统一进Claude，Salesforce联合NVIDIA推出CRM推理模型Koa。 |
+| 2026-09-18 | [查看](reports/2026-09-18.md) | OpenAI首披露6起misalignment案例+Anthropic量化AI研发自动化指标+智谱国内首个RSI工程实践+华为昇腾960提前就绪 |
 
 ## 📅 周报索引
 
