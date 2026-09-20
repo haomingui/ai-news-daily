@@ -28,6 +28,7 @@
 | 2026-09-17 | [查看](reports/2026-09-17.md) | 三大厂商AI安全协调首次公开确认，Anthropic把Cowork统一进Claude，Salesforce联合NVIDIA推出CRM推理模型Koa。 |
 | 2026-09-18 | [查看](reports/2026-09-18.md) | OpenAI首披露6起misalignment案例+Anthropic量化AI研发自动化指标+智谱国内首个RSI工程实践+华为昇腾960提前就绪 |
 | 2026-09-19 | [查看](reports/2026-09-19.md) | OpenAI发布Astra for Law（GPT-6 Astra法律行业专用底座）+加州签署AI kill switch行政令+Anthropic拟11月IPO估值约2万亿美元+Crusoe完成39亿美元F轮融资+阿里通义千问发布Qwen3.8-Omni-Flash多模态模型（1M上下文、29项评测平均提升25%+）+智谱上线GLM-5.3-FlashX高速推理版本（200 tokens/s、定价提升2.5倍） |
+| 2026-09-20 | [查看](reports/2026-09-20.md) | 特朗普组建AI部队+沙皇；弗吉尼亚签EO22数据中心问责；Anthropic-Accenture20亿美元嵌入式AI安全评估；FAA SMART首入国家关键基础设施；NYT v OpenAI版权案解封微软'最大劳动盗窃'备忘录 |
 
 ## 📅 周报索引
 
