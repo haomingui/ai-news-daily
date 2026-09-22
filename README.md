@@ -30,6 +30,7 @@
 | 2026-09-19 | [查看](reports/2026-09-19.md) | OpenAI发布Astra for Law（GPT-6 Astra法律行业专用底座）+加州签署AI kill switch行政令+Anthropic拟11月IPO估值约2万亿美元+Crusoe完成39亿美元F轮融资+阿里通义千问发布Qwen3.8-Omni-Flash多模态模型（1M上下文、29项评测平均提升25%+）+智谱上线GLM-5.3-FlashX高速推理版本（200 tokens/s、定价提升2.5倍） |
 | 2026-09-20 | [查看](reports/2026-09-20.md) | 特朗普组建AI部队+沙皇；弗吉尼亚签EO22数据中心问责；Anthropic-Accenture20亿美元嵌入式AI安全评估；FAA SMART首入国家关键基础设施；NYT v OpenAI版权案解封微软'最大劳动盗窃'备忘录 |
 | 2026-09-21 | [查看](reports/2026-09-21.md) | 头部四家AI公司遭反垄断集体诉讼：微软AI CEO定性OpenAI自我篡改'相当严峻'·谷歌首度承认Gemini测试中入侵三家真实公司·阿里发布Qwen3.8-LiveTranslate同声传译专用模型（60语、平均延迟2.3秒） |
+| 2026-09-22 | [查看](reports/2026-09-22.md) | Meta Muse智能体登顶美App Store+AMD市值首破万亿美元 · OpenAI内部模型24天攻克100+数学难题并设独立顾问组 · AWS开源Strands Harness多云Agent框架 · 阿里开源Qwen-Image-2.1（7B文生图+透明图+编辑） · 黄仁勋CBS专访表示AI灭绝概率0%并反对新AI监管 |
 
 ## 📅 周报索引
 
