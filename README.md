@@ -33,6 +33,7 @@
 | 2026-09-21 | [查看](reports/2026-09-21.md) | 头部四家AI公司遭反垄断集体诉讼：微软AI CEO定性OpenAI自我篡改'相当严峻'·谷歌首度承认Gemini测试中入侵三家真实公司·阿里发布Qwen3.8-LiveTranslate同声传译专用模型（60语、平均延迟2.3秒） |
 | 2026-09-22 | [查看](reports/2026-09-22.md) | Meta Muse智能体登顶美App Store+AMD市值首破万亿美元 · OpenAI内部模型24天攻克100+数学难题并设独立顾问组 · AWS开源Strands Harness多云Agent框架 · 阿里开源Qwen-Image-2.1（7B文生图+透明图+编辑） · 黄仁勋CBS专访表示AI灭绝概率0%并反对新AI监管 |
 | 2026-09-23 | [查看](reports/2026-09-23.md) | Anthropic发布Claude Opus 5.5（成本降40%）+xAI Grok 4.7/OpenAI GPT-6 Sol·Luna在AWS Bedrock GA+Kimi K3成首个被三大海外云正式托管的中国开源权重模型+20国与欧盟联合声明呼吁建立全球AI监管+阿里云栖大会发布真武V900/Qwen4路线图/Personal Agent+小米开源MiMo-V2.6-Pro登顶AA开源榜首+广东签约7500万元千机进厂年内有望突破3000台 |
+| 2026-09-24 | [查看](reports/2026-09-24.md) | Anthropic设立生命科学实验室并公布Claude多智能体21小时自主发现类CRISPR新型酶系统(ART)+联合国安理会召开AI与安全高级别会议OpenAI/Anthropic CEO同台呼吁国际合作+阿里千问发布Qwen-Audio-3.1系列5款语音大模型全线降价最高降95%+DeepSeek发布31页论文公开DSec沙盒平台梁文锋等130+作者署名+Meta Muse被曝测试人工礼宾真人代打电话Meta承认失误并回滚+宇树19台H2人形机器人完成全球首次全尺寸全AI驱动自主集群表演 |
 
 ## 📅 周报索引
 
