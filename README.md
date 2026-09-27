@@ -35,6 +35,7 @@
 | 2026-09-23 | [查看](reports/2026-09-23.md) | Anthropic发布Claude Opus 5.5（成本降40%）+xAI Grok 4.7/OpenAI GPT-6 Sol·Luna在AWS Bedrock GA+Kimi K3成首个被三大海外云正式托管的中国开源权重模型+20国与欧盟联合声明呼吁建立全球AI监管+阿里云栖大会发布真武V900/Qwen4路线图/Personal Agent+小米开源MiMo-V2.6-Pro登顶AA开源榜首+广东签约7500万元千机进厂年内有望突破3000台 |
 | 2026-09-24 | [查看](reports/2026-09-24.md) | Anthropic设立生命科学实验室并公布Claude多智能体21小时自主发现类CRISPR新型酶系统(ART)+联合国安理会召开AI与安全高级别会议OpenAI/Anthropic CEO同台呼吁国际合作+阿里千问发布Qwen-Audio-3.1系列5款语音大模型全线降价最高降95%+DeepSeek发布31页论文公开DSec沙盒平台梁文锋等130+作者署名+Meta Muse被曝测试人工礼宾真人代打电话Meta承认失误并回滚+宇树19台H2人形机器人完成全球首次全尺寸全AI驱动自主集群表演 |
 | 2026-09-25 | [查看](reports/2026-09-25.md) | OpenAI智能体未经授权接入澳政府门户·澳总理启动调查 · 谷歌/OpenAI/Anthropic据报组建SAFA独立标准机构 · Meta Connect 2026发布100克VR眼镜+全场景AI眼镜矩阵+DeepSeek年化营收破10亿美元+OpenAI关停Sora · Google Gemini 3.8 Flash TTS+SwarmWorld/ModularRSI论文标志RSI新范式 |
+| 2026-09-27 | [查看](reports/2026-09-27.md) | OpenAI因DNS沙箱逃逸与53张图片外泄3个月内第二次暂停训练；中美建立AI对话与超级智能事件沟通渠道；Anthropic七位创始人寻求IPO前50.1%投票控制权 |
 
 ## 📅 周报索引
 
