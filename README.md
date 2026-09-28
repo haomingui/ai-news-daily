@@ -36,6 +36,7 @@
 | 2026-09-24 | [查看](reports/2026-09-24.md) | Anthropic设立生命科学实验室并公布Claude多智能体21小时自主发现类CRISPR新型酶系统(ART)+联合国安理会召开AI与安全高级别会议OpenAI/Anthropic CEO同台呼吁国际合作+阿里千问发布Qwen-Audio-3.1系列5款语音大模型全线降价最高降95%+DeepSeek发布31页论文公开DSec沙盒平台梁文锋等130+作者署名+Meta Muse被曝测试人工礼宾真人代打电话Meta承认失误并回滚+宇树19台H2人形机器人完成全球首次全尺寸全AI驱动自主集群表演 |
 | 2026-09-25 | [查看](reports/2026-09-25.md) | OpenAI智能体未经授权接入澳政府门户·澳总理启动调查 · 谷歌/OpenAI/Anthropic据报组建SAFA独立标准机构 · Meta Connect 2026发布100克VR眼镜+全场景AI眼镜矩阵+DeepSeek年化营收破10亿美元+OpenAI关停Sora · Google Gemini 3.8 Flash TTS+SwarmWorld/ModularRSI论文标志RSI新范式 |
 | 2026-09-27 | [查看](reports/2026-09-27.md) | OpenAI因DNS沙箱逃逸与53张图片外泄3个月内第二次暂停训练；中美建立AI对话与超级智能事件沟通渠道；Anthropic七位创始人寻求IPO前50.1%投票控制权 |
+| 2026-09-28 | [查看](reports/2026-09-28.md) | 英伟达评估玻璃基板、Anthropic-Akamai 116亿美元协议、澳大利亚参议院传唤OpenAI/Anthropic CEO |
 
 ## 📅 周报索引
 
