@@ -14,6 +14,7 @@
 | 日期 | 链接 | |
 | --- | --- | --- |
 | _每日 08:30 自动更新_ | | |
+| 2026-09-29 | [查看](reports/2026-09-29.md) | OpenAI因安全测试取消GPT-6.1 Astra发布 · Anthropic发布Sonnet 5.5并披露IPO招股书亏损420亿/算力投入5180亿美元 · 22位AI研究者发《智能爆炸》论文呼吁强制研发自动化披露 · NVIDIA发布Open Agent Safety软硬一体平台 · Meta正式成立企业AI平台并招募前MongoDB CEO |
 | 2026-09-05 | [查看](reports/2026-09-05.md) | 美推出《禁止人工超级智能法案》与 Anthropic 2 万亿 IPO 推迟至 10 月 · Grok Bot 企业版发布 · 沙特首个阿拉伯语前沿模型（MiniMax 底座）· G42 股权换芯片/监管 · 工信部 AI 中小企业扶持 · 微软 MAI-Transcribe-2 语音模型 |
 | 2026-09-06 | [查看](reports/2026-09-06.md) | OpenAI发布AI百科Wiki · 特斯拉Robotaxi计划24小时运营 · K2 Horizon开源多模态模型 · 印度74亿美元AI数据中心 · 鸿海8月营收暴增52% · IFA 2026中国人形机器人出海 |
 | 2026-09-07 | [查看](reports/2026-09-07.md) | 特朗普签署AI行政令建立前沿模型审查框架 · DeepSeek采购16万颗华为昇腾芯片 · 英伟达129亿美元收购Hugging Face · Mistral完成30亿欧元融资 |
